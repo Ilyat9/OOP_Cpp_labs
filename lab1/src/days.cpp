@@ -17,7 +17,7 @@ int days(int UpSpeed, int DownSpeed, int desiredHeight){
   while (height < desiredHeight)
       {
           if (time == 1){
-              height += Upspeed;
+              height += UpSpeed;
               time -= 1;
               days_passed +=1;
           }
