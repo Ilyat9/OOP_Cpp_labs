@@ -1,2 +1,2 @@
 #pragma once
-int days(int Upspeed, int Downspeed, int Desiredheight);
+int days(int UpSpeed, int DownSpeed, int desiredHeight);
